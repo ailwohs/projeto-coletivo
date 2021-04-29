@@ -1,0 +1,65 @@
+.box{
+    width: 300px;
+    height: 300px;
+    
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 109px auto;
+}
+
+.estilo{
+    text-align: center;
+    color: gold;
+    font-style: normal;
+    font-size: 50px;
+    font-family: 'Bangers', cursive;
+    height: 80px;
+}
+
+.estilo1{
+    text-align: center;
+    
+}
+
+.espacamento{
+    width: 10px;
+    height: 100px;
+    text-align: center;
+}
+
+.images{
+    background-image: url(../images/macaco.jpg);
+    
+}
+
+.estilo2{
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+
+}
+ 
+.estilo3{
+    margin: 30px;
+}
+
+.macaco{
+    background-image: url(../images/macaco/macaco2.jpg);
+    background-position: center;
+    width: 500px;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.estilo4{
+    font-family: 'Crimson Text', serif;
+    height: 30px;
+    text-align: center;
+    color: gold;
+    
+    
+}
+.color{
+    color: gold;
+}
